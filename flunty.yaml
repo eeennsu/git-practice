@@ -1,0 +1,12 @@
+team: flunty
+
+manager: eunsu
+
+memgers: 
+  - linda
+  - william
+  - david
+
+
+
+# yaml 파일은 실제 데이터와 관련은 없는 설명형식의 설명서 파일
