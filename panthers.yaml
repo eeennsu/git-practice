@@ -2,10 +2,8 @@ team: Panthers
 
 manager: Sebesta
 
-coach: Shirley
-
 members:
-    - Violet
-    - Stella
-    - Anthony
-    - Freddie
+  - Violet
+  - Stella
+  - Anthony
+  - Freddie
